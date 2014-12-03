@@ -1,2 +1,2 @@
-scribe-plugin-crop-command.js
-=============================
+scribe-plugin-crop-command
+==========================
